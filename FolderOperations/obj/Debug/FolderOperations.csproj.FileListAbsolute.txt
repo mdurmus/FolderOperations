@@ -1,0 +1,10 @@
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\obj\Debug\FolderOperations.csprojAssemblyReference.cache
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\obj\Debug\FolderOperations.Form1.resources
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\obj\Debug\FolderOperations.Properties.Resources.resources
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\obj\Debug\FolderOperations.csproj.GenerateResource.cache
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\obj\Debug\FolderOperations.csproj.CoreCompileInputs.cache
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\bin\Debug\FolderOperations.exe.config
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\bin\Debug\FolderOperations.exe
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\bin\Debug\FolderOperations.pdb
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\obj\Debug\FolderOperations.exe
+C:\Users\mdurm\source\repos\FolderOperations\FolderOperations\obj\Debug\FolderOperations.pdb
